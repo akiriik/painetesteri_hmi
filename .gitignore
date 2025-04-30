@@ -1,0 +1,11 @@
+# Python-virtuaaliympäristö
+venv/
+__pycache__/
+*.pyc
+
+# VS Code -asetukset (jos haluat)
+.vscode/
+
+# Mac / Linux / Windows roskat
+.DS_Store
+Thumbs.db
